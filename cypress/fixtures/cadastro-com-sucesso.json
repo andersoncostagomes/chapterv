@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email":"andersonteste@gmail.com",
+        "username":"Anderson Teste",
+        "bio":null,
+        "image":"https://api.realworld.io/images/smiley-cyrus.jpeg",
+        "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFuZGVyc29udGVzdGVAZ21haWwuY29tIiwidXNlcm5hbWUiOiJBbmRlcnNvbiBUZXN0ZSIsImJpbyI6bnVsbCwiaW1hZ2UiOiJodHRwczovL2FwaS5yZWFsd29ybGQuaW8vaW1hZ2VzL3NtaWxleS1jeXJ1cy5qcGVnIiwiaWF0IjoxNjQ3MjE2MTAyLCJleHAiOjE2NTI0MDAxMDJ9.PArsMkSfEiDShat_4UeaJw_tM10e1qQdbv1Q6KvpeuU"
+        }
+}
